@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+*{
+	width: 1100px;
+}
+
+.firstcol{
+	width: 200px;
+}
+
+.middlecol{
+	width:600px;
+}
+
+.lastcol{
+	width: 200px;
+}
